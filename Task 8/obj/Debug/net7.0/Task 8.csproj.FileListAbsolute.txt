@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Task 8/bin/Debug/net7.0/Task 8
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Task 8/bin/Debug/net7.0/Task 8.deps.json
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Task 8/bin/Debug/net7.0/Task 8.runtimeconfig.json
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Task 8/bin/Debug/net7.0/Task 8.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Task 8/bin/Debug/net7.0/Task 8.pdb
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Task 8/obj/Debug/net7.0/Task 8.csproj.AssemblyReference.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Task 8/obj/Debug/net7.0/Task 8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Task 8/obj/Debug/net7.0/Task 8.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Task 8/obj/Debug/net7.0/Task 8.AssemblyInfo.cs
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Task 8/obj/Debug/net7.0/Task 8.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Task 8/obj/Debug/net7.0/Task 8.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Task 8/obj/Debug/net7.0/refint/Task 8.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Task 8/obj/Debug/net7.0/Task 8.pdb
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Task 8/obj/Debug/net7.0/Task 8.genruntimeconfig.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Task 8/obj/Debug/net7.0/ref/Task 8.dll
