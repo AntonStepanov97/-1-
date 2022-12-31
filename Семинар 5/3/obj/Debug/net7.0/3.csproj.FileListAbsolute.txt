@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 5/3/bin/Debug/net7.0/3
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 5/3/bin/Debug/net7.0/3.deps.json
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 5/3/bin/Debug/net7.0/3.runtimeconfig.json
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 5/3/bin/Debug/net7.0/3.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 5/3/bin/Debug/net7.0/3.pdb
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 5/3/obj/Debug/net7.0/3.csproj.AssemblyReference.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 5/3/obj/Debug/net7.0/3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 5/3/obj/Debug/net7.0/3.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 5/3/obj/Debug/net7.0/3.AssemblyInfo.cs
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 5/3/obj/Debug/net7.0/3.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 5/3/obj/Debug/net7.0/3.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 5/3/obj/Debug/net7.0/refint/3.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 5/3/obj/Debug/net7.0/3.pdb
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 5/3/obj/Debug/net7.0/3.genruntimeconfig.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 5/3/obj/Debug/net7.0/ref/3.dll
