@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Поиск равного/obj/Debug/net7.0/Поиск равного.csproj.AssemblyReference.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Поиск равного/obj/Debug/net7.0/Поиск равного.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Поиск равного/obj/Debug/net7.0/Поиск равного.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Поиск равного/obj/Debug/net7.0/Поиск равного.AssemblyInfo.cs
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Поиск равного/obj/Debug/net7.0/Поиск равного.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Поиск равного/bin/Debug/net7.0/Поиск равного
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Поиск равного/bin/Debug/net7.0/Поиск равного.deps.json
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Поиск равного/bin/Debug/net7.0/Поиск равного.runtimeconfig.json
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Поиск равного/bin/Debug/net7.0/Поиск равного.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Поиск равного/bin/Debug/net7.0/Поиск равного.pdb
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Поиск равного/obj/Debug/net7.0/Поиск равного.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Поиск равного/obj/Debug/net7.0/refint/Поиск равного.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Поиск равного/obj/Debug/net7.0/Поиск равного.pdb
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Поиск равного/obj/Debug/net7.0/Поиск равного.genruntimeconfig.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Поиск равного/obj/Debug/net7.0/ref/Поиск равного.dll
