@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 6/41/bin/Debug/net7.0/41
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 6/41/bin/Debug/net7.0/41.deps.json
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 6/41/bin/Debug/net7.0/41.runtimeconfig.json
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 6/41/bin/Debug/net7.0/41.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 6/41/bin/Debug/net7.0/41.pdb
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 6/41/obj/Debug/net7.0/41.csproj.AssemblyReference.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 6/41/obj/Debug/net7.0/41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 6/41/obj/Debug/net7.0/41.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 6/41/obj/Debug/net7.0/41.AssemblyInfo.cs
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 6/41/obj/Debug/net7.0/41.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 6/41/obj/Debug/net7.0/41.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 6/41/obj/Debug/net7.0/refint/41.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 6/41/obj/Debug/net7.0/41.pdb
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 6/41/obj/Debug/net7.0/41.genruntimeconfig.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 6/41/obj/Debug/net7.0/ref/41.dll
