@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/text redactor/obj/Debug/net7.0/text redactor.csproj.AssemblyReference.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/text redactor/obj/Debug/net7.0/text redactor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/text redactor/obj/Debug/net7.0/text redactor.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/text redactor/obj/Debug/net7.0/text redactor.AssemblyInfo.cs
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/text redactor/obj/Debug/net7.0/text redactor.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/text redactor/bin/Debug/net7.0/text redactor
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/text redactor/bin/Debug/net7.0/text redactor.deps.json
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/text redactor/bin/Debug/net7.0/text redactor.runtimeconfig.json
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/text redactor/bin/Debug/net7.0/text redactor.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/text redactor/bin/Debug/net7.0/text redactor.pdb
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/text redactor/obj/Debug/net7.0/text redactor.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/text redactor/obj/Debug/net7.0/refint/text redactor.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/text redactor/obj/Debug/net7.0/text redactor.pdb
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/text redactor/obj/Debug/net7.0/text redactor.genruntimeconfig.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/text redactor/obj/Debug/net7.0/ref/text redactor.dll
