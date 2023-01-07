@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/arrange array/obj/Debug/net7.0/arrange array.csproj.AssemblyReference.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/arrange array/obj/Debug/net7.0/arrange array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/arrange array/obj/Debug/net7.0/arrange array.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/arrange array/obj/Debug/net7.0/arrange array.AssemblyInfo.cs
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/arrange array/obj/Debug/net7.0/arrange array.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/arrange array/bin/Debug/net7.0/arrange array
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/arrange array/bin/Debug/net7.0/arrange array.deps.json
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/arrange array/bin/Debug/net7.0/arrange array.runtimeconfig.json
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/arrange array/bin/Debug/net7.0/arrange array.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/arrange array/bin/Debug/net7.0/arrange array.pdb
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/arrange array/obj/Debug/net7.0/arrange array.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/arrange array/obj/Debug/net7.0/refint/arrange array.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/arrange array/obj/Debug/net7.0/arrange array.pdb
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/arrange array/obj/Debug/net7.0/arrange array.genruntimeconfig.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/arrange array/obj/Debug/net7.0/ref/arrange array.dll
