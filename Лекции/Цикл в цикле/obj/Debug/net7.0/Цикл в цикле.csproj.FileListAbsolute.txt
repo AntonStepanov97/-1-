@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Цикл в цикле/bin/Debug/net7.0/Цикл в цикле
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Цикл в цикле/bin/Debug/net7.0/Цикл в цикле.deps.json
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Цикл в цикле/bin/Debug/net7.0/Цикл в цикле.runtimeconfig.json
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Цикл в цикле/bin/Debug/net7.0/Цикл в цикле.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Цикл в цикле/bin/Debug/net7.0/Цикл в цикле.pdb
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Цикл в цикле/obj/Debug/net7.0/Цикл в цикле.csproj.AssemblyReference.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Цикл в цикле/obj/Debug/net7.0/Цикл в цикле.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Цикл в цикле/obj/Debug/net7.0/Цикл в цикле.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Цикл в цикле/obj/Debug/net7.0/Цикл в цикле.AssemblyInfo.cs
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Цикл в цикле/obj/Debug/net7.0/Цикл в цикле.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Цикл в цикле/obj/Debug/net7.0/Цикл в цикле.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Цикл в цикле/obj/Debug/net7.0/refint/Цикл в цикле.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Цикл в цикле/obj/Debug/net7.0/Цикл в цикле.pdb
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Цикл в цикле/obj/Debug/net7.0/Цикл в цикле.genruntimeconfig.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/Цикл в цикле/obj/Debug/net7.0/ref/Цикл в цикле.dll
