@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 7/47/bin/Debug/net7.0/47
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 7/47/bin/Debug/net7.0/47.deps.json
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 7/47/bin/Debug/net7.0/47.runtimeconfig.json
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 7/47/bin/Debug/net7.0/47.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 7/47/bin/Debug/net7.0/47.pdb
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 7/47/obj/Debug/net7.0/47.csproj.AssemblyReference.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 7/47/obj/Debug/net7.0/47.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 7/47/obj/Debug/net7.0/47.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 7/47/obj/Debug/net7.0/47.AssemblyInfo.cs
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 7/47/obj/Debug/net7.0/47.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 7/47/obj/Debug/net7.0/47.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 7/47/obj/Debug/net7.0/refint/47.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 7/47/obj/Debug/net7.0/47.pdb
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 7/47/obj/Debug/net7.0/47.genruntimeconfig.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 7/47/obj/Debug/net7.0/ref/47.dll
