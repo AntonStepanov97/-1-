@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "string_двумерные массивы/1.0.0": {
+        "runtime": {
+          "string_двумерные массивы.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "string_двумерные массивы/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

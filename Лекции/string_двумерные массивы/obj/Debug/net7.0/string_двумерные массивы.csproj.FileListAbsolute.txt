@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/string_двумерные массивы/obj/Debug/net7.0/string_двумерные массивы.csproj.AssemblyReference.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/string_двумерные массивы/obj/Debug/net7.0/string_двумерные массивы.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/string_двумерные массивы/obj/Debug/net7.0/string_двумерные массивы.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/string_двумерные массивы/obj/Debug/net7.0/string_двумерные массивы.AssemblyInfo.cs
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/string_двумерные массивы/obj/Debug/net7.0/string_двумерные массивы.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/string_двумерные массивы/bin/Debug/net7.0/string_двумерные массивы
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/string_двумерные массивы/bin/Debug/net7.0/string_двумерные массивы.deps.json
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/string_двумерные массивы/bin/Debug/net7.0/string_двумерные массивы.runtimeconfig.json
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/string_двумерные массивы/bin/Debug/net7.0/string_двумерные массивы.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/string_двумерные массивы/bin/Debug/net7.0/string_двумерные массивы.pdb
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/string_двумерные массивы/obj/Debug/net7.0/string_двумерные массивы.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/string_двумерные массивы/obj/Debug/net7.0/refint/string_двумерные массивы.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/string_двумерные массивы/obj/Debug/net7.0/string_двумерные массивы.pdb
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/string_двумерные массивы/obj/Debug/net7.0/string_двумерные массивы.genruntimeconfig.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Лекции/string_двумерные массивы/obj/Debug/net7.0/ref/string_двумерные массивы.dll
