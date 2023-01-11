@@ -11,7 +11,6 @@ string[,] table = new string[2, 5];
 //   } 
 //} 
 
-
 void PrintArray(int[,] matr)
 {
 for (int i = 0; i < matr.GetLength(0); i++)
@@ -23,20 +22,22 @@ for (int i = 0; i < matr.GetLength(0); i++)
         Console.WriteLine();
     }
 } 
+
+ void FillArray(int[,] matr);
+{
+    for (int i = 0; i < matr.GetLength(0); i++)
+    {
+        for (int j = 0; j < matr.GetLength(1); i++)
+        {
+             matr[i,j] = new Random().Next(1,10);
+        }
+    }
+}
+
 int[,] matrix = new int[3, 4];
 
 PrintArray(matrix);
-
-// void FillArray(int[,] matr);
-// {
-//    for (int i = 0; i < matr.GetLength(0); i++)
-//    {
-//        for (int j = 0; j < matr.GetLength(1); i++)
-//        {
-//             matr[i,j] = new Random().Next(1,10);
-//        }
-//    }
-//}
-
-
+FillArray(matrix);
+Console.WriteLine();
+PrintArray(matrix);
 

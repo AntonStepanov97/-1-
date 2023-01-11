@@ -1,4 +1,4 @@
-﻿Console.Clear;
+﻿Console.Clear();
 Console.Write("Введите координату x первой точки: ");
 double x1 = Convert.ToDouble(Console.ReadLine());
 Console.Write("Введите координату y первой точки: ");
