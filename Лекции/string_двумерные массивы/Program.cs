@@ -23,7 +23,7 @@ for (int i = 0; i < matr.GetLength(0); i++)
     }
 } 
 
- void FillArray(int[,] matr);
+ void FillArray(int[,] matr)
 {
     for (int i = 0; i < matr.GetLength(0); i++)
     {
