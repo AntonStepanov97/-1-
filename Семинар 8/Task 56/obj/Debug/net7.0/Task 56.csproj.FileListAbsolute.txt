@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 8/Task 56/bin/Debug/net7.0/Task 56
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 8/Task 56/bin/Debug/net7.0/Task 56.deps.json
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 8/Task 56/bin/Debug/net7.0/Task 56.runtimeconfig.json
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 8/Task 56/bin/Debug/net7.0/Task 56.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 8/Task 56/bin/Debug/net7.0/Task 56.pdb
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 8/Task 56/obj/Debug/net7.0/Task 56.csproj.AssemblyReference.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 8/Task 56/obj/Debug/net7.0/Task 56.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 8/Task 56/obj/Debug/net7.0/Task 56.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 8/Task 56/obj/Debug/net7.0/Task 56.AssemblyInfo.cs
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 8/Task 56/obj/Debug/net7.0/Task 56.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 8/Task 56/obj/Debug/net7.0/Task 56.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 8/Task 56/obj/Debug/net7.0/refint/Task 56.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 8/Task 56/obj/Debug/net7.0/Task 56.pdb
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 8/Task 56/obj/Debug/net7.0/Task 56.genruntimeconfig.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/Семинар 8/Task 56/obj/Debug/net7.0/ref/Task 56.dll
